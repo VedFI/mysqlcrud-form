@@ -1,0 +1,11 @@
+c:\users\ahmet\documents\visual studio 2015\Projects\DatabaseApp\DatabaseApp\bin\Release\DatabaseApp.exe.config
+c:\users\ahmet\documents\visual studio 2015\Projects\DatabaseApp\DatabaseApp\bin\Release\DatabaseApp.exe
+c:\users\ahmet\documents\visual studio 2015\Projects\DatabaseApp\DatabaseApp\bin\Release\DatabaseApp.pdb
+c:\users\ahmet\documents\visual studio 2015\Projects\DatabaseApp\DatabaseApp\bin\Release\MySql.Data.dll
+c:\users\ahmet\documents\visual studio 2015\Projects\DatabaseApp\DatabaseApp\bin\Release\Google.Protobuf.dll
+c:\users\ahmet\documents\visual studio 2015\Projects\DatabaseApp\DatabaseApp\bin\Release\MySql.Data.xml
+c:\users\ahmet\documents\visual studio 2015\Projects\DatabaseApp\DatabaseApp\obj\Release\DatabaseApp.Form1.resources
+c:\users\ahmet\documents\visual studio 2015\Projects\DatabaseApp\DatabaseApp\obj\Release\DatabaseApp.Properties.Resources.resources
+c:\users\ahmet\documents\visual studio 2015\Projects\DatabaseApp\DatabaseApp\obj\Release\DatabaseApp.csproj.GenerateResource.Cache
+c:\users\ahmet\documents\visual studio 2015\Projects\DatabaseApp\DatabaseApp\obj\Release\DatabaseApp.exe
+c:\users\ahmet\documents\visual studio 2015\Projects\DatabaseApp\DatabaseApp\obj\Release\DatabaseApp.pdb

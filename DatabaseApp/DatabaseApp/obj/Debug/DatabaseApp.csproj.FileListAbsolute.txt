@@ -1,0 +1,23 @@
+c:\users\ahmet\documents\visual studio 2015\Projects\DatabaseApp\DatabaseApp\bin\Debug\DatabaseApp.exe.config
+c:\users\ahmet\documents\visual studio 2015\Projects\DatabaseApp\DatabaseApp\bin\Debug\DatabaseApp.exe
+c:\users\ahmet\documents\visual studio 2015\Projects\DatabaseApp\DatabaseApp\bin\Debug\DatabaseApp.pdb
+c:\users\ahmet\documents\visual studio 2015\Projects\DatabaseApp\DatabaseApp\obj\Debug\DatabaseApp.csprojResolveAssemblyReference.cache
+c:\users\ahmet\documents\visual studio 2015\Projects\DatabaseApp\DatabaseApp\obj\Debug\DatabaseApp.Form1.resources
+c:\users\ahmet\documents\visual studio 2015\Projects\DatabaseApp\DatabaseApp\obj\Debug\DatabaseApp.Properties.Resources.resources
+c:\users\ahmet\documents\visual studio 2015\Projects\DatabaseApp\DatabaseApp\obj\Debug\DatabaseApp.csproj.GenerateResource.Cache
+c:\users\ahmet\documents\visual studio 2015\Projects\DatabaseApp\DatabaseApp\obj\Debug\DatabaseApp.exe
+c:\users\ahmet\documents\visual studio 2015\Projects\DatabaseApp\DatabaseApp\obj\Debug\DatabaseApp.pdb
+c:\users\ahmet\documents\visual studio 2015\Projects\DatabaseApp\DatabaseApp\bin\Debug\MySql.Data.dll
+c:\users\ahmet\documents\visual studio 2015\Projects\DatabaseApp\DatabaseApp\bin\Debug\Google.Protobuf.dll
+c:\users\ahmet\documents\visual studio 2015\Projects\DatabaseApp\DatabaseApp\bin\Debug\MySql.Data.xml
+D:\Development\C#\Veritabanı Yönetim Programı\Veritabani Yonetim Programi\DatabaseApp\DatabaseApp\bin\Debug\DatabaseApp.exe.config
+D:\Development\C#\Veritabanı Yönetim Programı\Veritabani Yonetim Programi\DatabaseApp\DatabaseApp\obj\Debug\DatabaseApp.exe
+D:\Development\C#\Veritabanı Yönetim Programı\Veritabani Yonetim Programi\DatabaseApp\DatabaseApp\obj\Debug\DatabaseApp.pdb
+D:\Development\C#\Veritabanı Yönetim Programı\Veritabani Yonetim Programi\DatabaseApp\DatabaseApp\bin\Debug\DatabaseApp.exe
+D:\Development\C#\Veritabanı Yönetim Programı\Veritabani Yonetim Programi\DatabaseApp\DatabaseApp\bin\Debug\DatabaseApp.pdb
+D:\Development\C#\Veritabanı Yönetim Programı\Veritabani Yonetim Programi\DatabaseApp\DatabaseApp\bin\Debug\Google.Protobuf.dll
+D:\Development\C#\Veritabanı Yönetim Programı\Veritabani Yonetim Programi\DatabaseApp\DatabaseApp\bin\Debug\MySql.Data.xml
+D:\Development\C#\Veritabanı Yönetim Programı\Veritabani Yonetim Programi\DatabaseApp\DatabaseApp\obj\Debug\DatabaseApp.csprojResolveAssemblyReference.cache
+D:\Development\C#\Veritabanı Yönetim Programı\Veritabani Yonetim Programi\DatabaseApp\DatabaseApp\obj\Debug\DatabaseApp.Form1.resources
+D:\Development\C#\Veritabanı Yönetim Programı\Veritabani Yonetim Programi\DatabaseApp\DatabaseApp\obj\Debug\DatabaseApp.Properties.Resources.resources
+D:\Development\C#\Veritabanı Yönetim Programı\Veritabani Yonetim Programi\DatabaseApp\DatabaseApp\obj\Debug\DatabaseApp.csproj.GenerateResource.Cache
